@@ -33,31 +33,31 @@ Also this list might be not fully correct, some people are having different expe
 
 
 ## LEGIT PROVIDER [UNDETECTED+INTERNAL]	RATING	NOTICE  
-#### [LT++	★ ★ ★ ★	Expensive + detected evade]()
-#### [CW24	★ ★ ★ ★ ★	Limited slots]()
-#### [Bruhwalker	★ ★ ★ ★	Very long waiting list]()
-#### [Zeitgeist	★ ★ ★	not well known (be careful)]()
-#### [holyness - private	★ ★	toirplus reseller + unprof.]()
-#### [Elocarry	★ ★ ★]()
-#### [LS	★ ★]()
-#### [Zenbot private	★ ★	high joining fee]()
-#### [More semi/privates	-	not allowed to name them]()
+#### LT++	★ ★ ★ ★	Expensive + detected evade
+#### [CW24	★ ★ ★ ★ ★	Limited slots](https://link-center.net/473152/cyberware24)
+#### [Bruhwalker	★ ★ ★ ★	Very long waiting list]
+#### [Zeitgeist	★ ★ ★	not well known (be careful)](https://link-hub.net/473152/zeitgeist)
+#### [holyness - private	★ ★	toirplus reseller + unprof.](https://link-hub.net/473152/holyness)
+#### [Elocarry	★ ★ ★]
+#### [LS	★ ★](https://link-center.net/473152/ls-lol)
+#### [Zenbot private	★ ★	high joining fee]
+#### [More semi/privates	-	not allowed to name them]
 
 ## LEGIT PROVIDER [UNDETECTED+EXTERNAL]	RATING	**NOTICE ***Memory based  
-#### [Heimdalr (private)	★ ★ ★ ★	Good, but new... ]()
-#### [YTS	★ ★ ★	 ]()
-#### [Xepher	★ ★ ★	 ]()
-#### [Oasys	★ ★	 ]()
-#### [Gaming on Steroids	★	High banrate ]()
-#### [slotted.cc	★ ★	 ]()
-#### [TFKite	★ ★	 ]()
-#### [More semi/privates	-	not allowed to name them ]()
+#### [Heimdalr (private)	★ ★ ★ ★	Good, but new... ](https://link-center.net/473152/heimdalr)
+#### [YTS	★ ★ ★	 ]
+#### [Xepher	★ ★ ★	 ]
+#### [Oasys	★ ★	 ](https://link-target.net/473152/oasys)
+#### [Gaming on Steroids	★	High banrate ](https://link-target.net/473152/gaming-steroids)
+#### [slotted.cc	★ ★	 ](https://link-center.net/473152/slotted)
+#### [TFKite	★ ★	 ](https://link-center.net/473152/tfkite)
+#### [More semi/privates	-	not allowed to name them ]
 
 
 ## LEGIT PROVIDER [UNDETECTED+EXTERNAL]	RATING	**NOTICE ***Pixel based
-#### [Bossmode	★ ★	]()
-#### [DoomCooper	★	]()
-#### [DevilScript	★ ★ ★	]()
+#### [Bossmode	★ ★	](https://link-target.net/473152/bossmode)
+#### [DoomCooper	★	]
+#### [DevilScript	★ ★ ★	](https://link-center.net/473152/devilscript)
 
 
 ## LEGIT PROVIDER [DETECTED]	RATING	NOTICE
@@ -75,7 +75,7 @@ Also this list might be not fully correct, some people are having different expe
 
 
 ## UNTESTED PROVIDER	RATING	NOTICE
-#### [Shiny Script	★	untested]() 
+#### [Shiny Script	★	untested](https://direct-link.net/473152/shinyscript) 
 
 #### [CTRL SHIFT	★	untested]()
 
