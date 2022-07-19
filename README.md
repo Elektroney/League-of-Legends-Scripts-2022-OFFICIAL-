@@ -125,3 +125,5 @@ Also this list might be not fully correct, some people are having different expe
 #### phoenixscript.com	Cracked software & scam products
 
 #### Niki217#8281	Fake LT++ Reseller
+
+Credit: https://new.reddit.com/r/lolscript_list/comments/qq1obp/official_list_of_legitscam_script_provider/
