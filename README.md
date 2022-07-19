@@ -38,7 +38,7 @@ Also this list might be not fully correct, some people are having different expe
 #### [Bruhwalker	★ ★ ★ ★	Very long waiting list]
 #### [Zeitgeist	★ ★ ★	not well known (be careful)](https://link-hub.net/473152/zeitgeist)
 #### [holyness - private	★ ★	toirplus reseller + unprof.](https://link-hub.net/473152/holyness)
-#### [Elocarry	★ ★ ★]
+#### [Elocarry	★ ★ ★](https://direct-link.net/473152/elocarry)
 #### [LS	★ ★](https://link-center.net/473152/ls-lol)
 #### [Zenbot private	★ ★	high joining fee]
 #### [More semi/privates	-	not allowed to name them]
