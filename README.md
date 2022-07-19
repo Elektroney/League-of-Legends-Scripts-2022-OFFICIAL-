@@ -62,16 +62,14 @@ Also this list might be not fully correct, some people are having different expe
 
 ## LEGIT PROVIDER [DETECTED]	RATING	NOTICE
 #### [Ensoulsharp	★ ★ ★	UD with correct bypass
-#### [BGX	★ ★ ★	Lower banrate than hanbot]()
-#### [LS	★ ★ ★	Might be UD soon]()
-#### [Robur	★ ★	Might be UD soon]()
-#### [Zenbot	★ ★	Better take the private]()
-#### [Hanbot	★ ★	UD with bypass]()
-#### [Pvlol	★ ★	lots of bans]()
-#### [ToirScript	★ ★	Use UD resellers!]()
-#### [Xorbot	★ ★	Way to expensive]()
-#### [Wadbot	★	Cheap + lots of bans]()
-
+#### [BGX	★ ★ ★	Lower banrate than hanbot]
+#### [Robur	★ ★	Might be UD soon]
+#### [Zenbot	★ ★	Better take the private]
+#### [Hanbot	★ ★	UD with bypass]
+#### [Pvlol	★ ★	lots of bans]
+#### [ToirScript	★ ★	Use UD resellers!]
+#### [Xorbot	★ ★	Way to expensive]
+#### [Wadbot	★	Cheap + lots of bans]
 
 
 ## UNTESTED PROVIDER	RATING	NOTICE
