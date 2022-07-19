@@ -75,9 +75,9 @@ Also this list might be not fully correct, some people are having different expe
 ## UNTESTED PROVIDER	RATING	NOTICE
 #### [Shiny Script	★	untested](https://direct-link.net/473152/shinyscript) 
 
-#### [CTRL SHIFT	★	untested]()
+#### [CTRL SHIFT	★	untested]
 
-#### [elixirbot.com	★	untested]()
+#### [elixirbot.com	★	untested]
 
 ## SCAM PROVIDER	NOTICE [NEVER EVERY BUY THIS]
 #### Whysharp.com	Cracked software
