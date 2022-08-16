@@ -34,7 +34,7 @@ Also this list might be not fully correct, some people are having different expe
 
 ## LEGIT PROVIDER [UNDETECTED+INTERNAL]	RATING	NOTICE  
 #### LT++	★ ★ ★ ★	Expensive + detected evade
-#### [CW24	★ ★ ★ ★ ★	Limited slots](https://link-center.net/473152/cyberware24)
+#### [CW24	★ ★	Limited slots + bad expierence and no support](https://link-center.net/473152/cyberware24)
 #### [Bruhwalker	★ ★ ★ ★	Very long waiting list]
 #### [Zeitgeist	★ ★ ★	not well known (be careful)](https://link-hub.net/473152/zeitgeist)
 #### [holyness - private	★ ★	toirplus reseller + unprof.](https://link-hub.net/473152/holyness)
